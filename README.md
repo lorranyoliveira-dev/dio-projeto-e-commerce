@@ -10,4 +10,4 @@ Refinar o modelo apresentado acrescentando os seguintes pontos:
 - Entrega – Possui status e código de rastreio;
 
 ## Modelo Conceitual
-
+![alt text](https://github.com/lorranyoliveira-dev/dio-projeto-e-commerce/blob/main/modelo_conceitual.png)
